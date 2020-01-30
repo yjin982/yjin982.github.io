@@ -3,7 +3,7 @@ remote_theme             : poole/hyde
 # Setup
 title: test
 tagline:  
-url: https://yjin982.github.io/
+url: "https://yjin982.github.io/"
 paginate: 1
 baseurl: ""
 permalink: pretty
