@@ -1,4 +1,4 @@
-remote_theme             : poole/hyde
+remote_theme : poole/hyde
 
 # Setup
 title: test
@@ -6,7 +6,7 @@ tagline:
 url: "https://yjin982.github.io/"
 paginate: 1
 baseurl: ""
-permalink: pretty
+permalink: ""
 
 # Gems
 plugins:
@@ -35,11 +35,11 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
+  name: 
+  url: 
+  email: 
 
 # Custom vars
 version: 3.0.0
 github:
-  repo: https://github.com/yjin982
+  repo: 
